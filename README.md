@@ -1,2 +1,2 @@
-# spotify-UI
+# music apps
 spotify-User-Interface
